@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', function() {
             input.classList.add('is-invalid');
             input.classList.remove('is-valid');
         }
-        const BACKEND_URL = window.BACKEND_API_URL || 'https://corporate-marketa-odvin123-2e265ec9.koyeb.app'
+        const BACKEND_URL = window.BACKEND_API_URL || 'https://metropolitan-mavis-candidasandino05-88c5f7f6.koyeb.app'
 
 
         function clearError(input) {
